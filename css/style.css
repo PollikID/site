@@ -1,0 +1,24 @@
+*{
+    margin:0 auto;
+    padding: 0;
+}
+body{
+    width: 1200px;
+    height: 1561px;
+    height:100%;
+}
+header{
+    height: 162px;
+    width: 1200px;
+    float: left;
+    background: url(images/Layer-7.png);
+}
+.name-firma{
+    background-color: red;
+    float: left;
+}
+.name-firma h2{
+    background-color: #bbbbbb;
+    font: 600 80px / 19px OpenSans;
+    
+}
